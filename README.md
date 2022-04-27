@@ -1,2 +1,2 @@
-# scraper
-amazon to shopify product imkport
+# Amazon To Shopify product import
+
